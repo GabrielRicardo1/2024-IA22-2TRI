@@ -31,6 +31,11 @@
    <img align="center" alt="C" src="src/ignore/abrindocodespacene.png" />
 </div>
 
+<div style="display: inline_block"><br/>
+   <img align="center" alt="C" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=790b76114s4opll4vd4nxfy9c3nsaq666ux5wphwtb6t10cl&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</div>
+
+
 ### pronto, agora começamos a codar!
 
 #### dicas de atalhos úteis: ctrl + G = procura a linha do código 
