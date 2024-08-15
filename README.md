@@ -341,7 +341,7 @@ Content-Type: application/json
 ### `1.6` por fim, precisamos entender como funciona e como usar o `PUT` e o `delete` é bem simples, basicamente os dois funcionam da mesma forma em sua base. na primeira linha das funções temos a requisição `http`, para modificar um usuario devemos fazer isso:
 
 <div style="display: inline_block"><br/>
-   <img align="center" alt="C" src="src/ignore/puttuto.PNG" />
+   <img align="center" alt="C" src="/workspaces/2024-IA22-2TRI/src/ignore/puttuto.PNG" />
 </div>
 
 ### destaquei o `/1` pq é a peça chave para modificar e deletar usuários. basicamente você altera o ID do usuário (/1 , /2 , /3...) simplesmente fazendo isso. se quiser alterar o usuario de ID 3 vai mudar `http://localhost:3333/users` para `http://localhost:3333/users/3` e nos campos de nome e email alterar o que for necessário. no meu caso, vou modificar o usuario de ID 6.
@@ -591,13 +591,12 @@ app.use(express.static(__dirname + '/../public'))
 </div>
 
 ## e por fim...
-#### precisamos adicionar, comitar e subir as mudanças feitas para o GitHub. copie e cole UM POR VEZ e dê enter nos scripts abaixo no terminal:
+#### precisamos adicionar, comitar e subir as mudanças feitas para o GitHub. copie, cole e dê enter nos scripts abaixo no terminal:
 
 ```bash
 git add . ; git commit -m ... ; git push origin main
-git commit -m ...
-git push origin main
 ```
+
 #### agora sim, terminamos. obrigado e espero que tenha dado tudo certo. me segue no insta pra eu saber quem fez meu tutorial. @couto_71
 
 
