@@ -603,12 +603,14 @@ git add . ; git commit -m ... ; git push origin main
 
 #### agora sim, terminamos. obrigado e espero que tenha dado tudo certo. me segue no insta pra eu saber quem fez meu tutorial. `couto_71`
 
+
 <div style="display: inline_block"><br/>
-   <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+   <img align="center" alt="C" src="https://media.giphy.com/media/3oFzmqN1xHwaEXGl7q/giphy.gif?cid=790b76111xh1dygvb65q938jbf5dgl2krdx6vivz6hcicqul&ep=v1_gifs_search&rid=giphy.gif&ct=g
+   " />
 </div>
 
 <div style="display: inline_block"><br/>
-   <img align="center" alt="C" src="https://media.giphy.com/media/3oFzmqN1xHwaEXGl7q/giphy.gif?cid=790b76111xh1dygvb65q938jbf5dgl2krdx6vivz6hcicqul&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+   <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
 
