@@ -25,7 +25,7 @@
    <img align="center" alt="C" src="src/ignore/criandocodespace.png" />
 </div>
 
-### pronto, agora vá para o seu perfil e abra o repositório... 
+### pronto, agora vá para o seu perfil e abra o repositório, logo em seguida selecione o botão `code` 
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="src/ignore/abrindocodespacene.png" />
@@ -206,6 +206,11 @@ app.listen(port, () => {
   console.log(`Server running on port ${port}`);
 });
 ```
+
+<div style="display: inline_block"><br/>
+   <img align="center" alt="C" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZrMmJsOTd1NW80bnk3bHc1NmQ0bHN3bGwxa29kems5Mmo1bXR0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" />
+</div>
+
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
