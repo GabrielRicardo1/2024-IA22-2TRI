@@ -386,6 +386,97 @@ Content-Type: application/json
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+
+    form {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      margin-bottom: 30px;
+      width: 300px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    input[type="text"], input[type="email"] {
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 14px;
+    }
+
+    button[type="submit"] {
+      background-color: #5cb85c;
+      color: white;
+      border: none;
+      padding: 10px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: background-color 0.3s ease;
+    }
+
+    button[type="submit"]:hover {
+      background-color: #4cae4c;
+    }
+
+    table {
+      width: 100%;
+      max-width: 800px;
+      border-collapse: collapse;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    th, td {
+      padding: 12px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+
+    th {
+      background-color: #5cb85c;
+      color: white;
+    }
+
+    tbody tr:hover {
+      background-color: #f1f1f1;
+    }
+
+    .excluir, .editar {
+      background-color: #d9534f;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .editar {
+      background-color: #0275d8;
+    }
+
+    .excluir:hover {
+      background-color: #c9302c;
+    }
+
+    .editar:hover {
+      background-color: #025aa5;
+    }
+  </style>
 </head>
 
 <body>
@@ -445,8 +536,8 @@ Content-Type: application/json
           <td>${user.name}</td>
           <td>${user.email}</td>
           <td>
-            <button class="excluir">excluir</button>
-            <button class="editar">editar</button>
+            <button class="excluir">Excluir</button>
+            <button class="editar">Editar</button>
           </td>
         `
 
@@ -480,6 +571,7 @@ Content-Type: application/json
 </body>
 
 </html>
+
 ```
 
 
@@ -488,11 +580,21 @@ Content-Type: application/json
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
+
+### `12.` agora, a única coisa que precisamos fazer é adicionar a seguinte linha ao arquivo `app.ts` da pasta `src` logo onde mostro na imagem abaixo.
+
+```ts
+app.use(express.static(__dirname + '/../public'))
+```
+<div style="display: inline_block"><br/>
+   <img align="center" alt="C" src="/workspaces/2024-IA22-2TRI/src/ignore/Captura de tela 2024-08-15 095858.png" />
+</div>
+
 ## e por fim...
 #### precisamos adicionar, comitar e subir as mudanças feitas para o GitHub. copie e cole UM POR VEZ e dê enter nos scripts abaixo no terminal:
 
 ```bash
-git add .
+git add . ; git commit -m ... ; git push origin main
 git commit -m ...
 git push origin main
 ```
