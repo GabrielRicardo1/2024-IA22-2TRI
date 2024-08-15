@@ -304,6 +304,10 @@ app.delete('/users/:id', async (req, res) => {
     }
 });
 ```
+<div style="display: inline_block"><br/>
+   <img align="center" alt="C" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZrMmJsOTd1NW80bnk3bHc1NmQ0bHN3bGwxa29kems5Mmo1bXR0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" />
+</div>
+
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
