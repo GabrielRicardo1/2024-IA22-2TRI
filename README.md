@@ -605,8 +605,7 @@ git add . ; git commit -m ... ; git push origin main
 
 
 <div style="display: inline_block"><br/>
-   <img align="center" alt="C" src="https://media.giphy.com/media/3oFzmqN1xHwaEXGl7q/giphy.gif?cid=790b76111xh1dygvb65q938jbf5dgl2krdx6vivz6hcicqul&ep=v1_gifs_search&rid=giphy.gif&ct=g
-   " />
+   <img align="center" alt="C" src="https://media.giphy.com/media/A5OPIlNp8fHQbATsvC/giphy.gif?cid=ecf05e47olz7yo3qbv7py9wlyox5oqd83bcbrmekas0czm25&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
 
 <div style="display: inline_block"><br/>
