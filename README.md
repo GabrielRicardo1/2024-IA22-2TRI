@@ -78,7 +78,7 @@ app.listen(port, () => {
 ```
 
 <div style="display: inline_block"><br/>
-   <img align="center" alt="C" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=ecf05e47qa1vxww21olfzzm4u8ih9edf9u021idueah2n8dg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="200"/>
+   <img align="center" alt="C" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=ecf05e47z62116qny69ahfn8rk62lu0upjqe2d04jpanf1z0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="200"/>
 </div>
 
 
