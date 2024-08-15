@@ -588,7 +588,7 @@ app.use(express.static(__dirname + '/../public'))
 ```
 
 <div style="display: inline_block"><br/>
-   <img align="center" alt="C" src="/workspaces/2024-IA22-2TRI/src/ignore/Captura de tela 2024-08-15 095858.png" />
+   <img align="center" alt="C" src="src/ignore/Captura de tela 2024-08-15 095858.png" />
 </div>
 
 ## e por fim...
