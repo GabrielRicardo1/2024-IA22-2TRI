@@ -355,19 +355,19 @@ Content-Type: application/json
 #### agora, para fazer a alteração, modifique o ID e o nome e email para testar. quando tudo estiver modificado como deveria, aperte o botão de `Send Request`:
 
 <div style="display: inline_block"><br/>
-   <img align="center" alt="C" src="/workspaces/2024-IA22-2TRI/src/ignore/editando06.PNG" />
+   <img align="center" alt="C" src="/workspaces/2024-IA22-2TRI/src/ignore/editando06.PNG"/>
 </div>
 
 #### e pronto ✔, seu usuário foi modificado. o meu, por exemplo, ficou assim:
 
 <div style="display: inline_block"><br/>
-   <img align="center" alt="C" src="/workspaces/2024-IA22-2TRI/src/ignore/puteditado.PNG" />
+   <img align="center" alt="C" src="/workspaces/2024-IA22-2TRI/src/ignore/puteditado.PNG"/>
 </div>
 
 ### `1.7` para deletar usuarios é a mesma coisa, a diferença é que você precisa informar apenas o ID do usuario. vou apagar o usuario 6 que acabamos de criar.
 
 <div style="display: inline_block"><br/>
-   <img align="center" alt="C" src="/workspaces/2024-IA22-2TRI/src/ignore/deletando.PNG" />
+   <img align="center" alt="C" src="src/ignore/deletando.PNG" />
 </div>
 
 #### e pronto, após usar o `Send Request` o usuário que você escolheu não existirá mais.
@@ -586,6 +586,7 @@ Content-Type: application/json
 ```ts
 app.use(express.static(__dirname + '/../public'))
 ```
+
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="/workspaces/2024-IA22-2TRI/src/ignore/Captura de tela 2024-08-15 095858.png" />
 </div>
