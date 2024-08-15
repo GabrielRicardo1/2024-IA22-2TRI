@@ -574,9 +574,6 @@ Content-Type: application/json
 
 ```
 
-
-
-
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
@@ -591,6 +588,12 @@ app.use(express.static(__dirname + '/../public'))
    <img align="center" alt="C" src="src/ignore/Captura de tela 2024-08-15 095858.png" />
 </div>
 
+<div style="display: inline_block"><br/>
+   <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+### `13.` agora é só testar. se o seu servidor tiver fechado com o tempo, basta colar `npm run dev` e abrir o navegador. nosso site estará assim.:
+
 ## e por fim...
 #### precisamos adicionar, comitar e subir as mudanças feitas para o GitHub. copie, cole e dê enter nos scripts abaixo no terminal:
 
@@ -600,9 +603,10 @@ git add . ; git commit -m ... ; git push origin main
 
 #### agora sim, terminamos. obrigado e espero que tenha dado tudo certo. me segue no insta pra eu saber quem fez meu tutorial. @couto_71
 
-
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="https://media.giphy.com/media/3oFzmqN1xHwaEXGl7q/giphy.gif?cid=790b76111xh1dygvb65q938jbf5dgl2krdx6vivz6hcicqul&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
+
+###
 
 
