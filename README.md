@@ -663,7 +663,7 @@ app.use(express.static(__dirname + '/../public'))
 #### caso não tenha criado ainda, crie a pasta `.gitignore` e adicione os seguintes arquivos:
 
 <div style="display: inline_block"><br/>
-   <img align="center" alt="C" src="/workspaces/2024-IA22-2TRI/src/ignore/gitignore.png" />
+   <img align="center" alt="C" src="src/ignore/gitignore.png" />
 </div>
 
 ```
