@@ -309,7 +309,7 @@ app.delete('/users/:id', async (req, res) => {
 });
 ```
 <div style="display: inline_block"><br/>
-   <img align="center" alt="C" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZrMmJsOTd1NW80bnk3bHc1NmQ0bHN3bGwxa29kems5Mmo1bXR0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" />
+   <img align="center" alt="C" src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif" />
 </div>
 
 
