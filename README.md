@@ -110,7 +110,7 @@ app.listen(port, () => {
 
 
 <div style="display: inline_block"><br/>
-   <img align="center" alt="C" src="https://media.giphy.com/media/6KD1kZonttviR6LP4x/giphy.gif?cid=ecf05e47ulq2z26pk08avh50efyx9g56871tyru9u98ft8qz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="200"/>
+   <img align="center" alt="C" src="https://i.gifer.com/XOsX.gif" width="200" height="200"/>
 </div>
 
 
@@ -414,10 +414,16 @@ Content-Type: application/json
 #### e pronto, após usar o `Send Request` o usuário que você escolheu não existirá mais.
 
 <div style="display: inline_block"><br/>
+   <img align="center" alt="C" src="https://i.gifer.com/76cI.gif" width="200" height="200"/>
+</div>
+
+### então, isso tudo foi só para testar a inserção e manipulação de dados. agora que toda a base está pronta, só falta fazermos a parte visual do site.
+
+<div style="display: inline_block"><br/>
    <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-### `11` agora vamos fazer a parte visual do nosso site, para isso, crie uma pasta chamada `public` (deve ser uma pasta isolada, não vai estar dentro de outra.) dentro dessa nova pasta, crie o arquivo `index.html` e adicione o seguinte código a ele:
+### `11` agora vamos fazer a parte visual do nosso site! para isso, crie uma pasta chamada `public` (deve ser uma pasta isolada, não vai estar dentro de outra.) dentro dessa nova pasta, crie o arquivo `index.html` e adicione o seguinte código a ele:
 
 ```html
 <!DOCTYPE html>
@@ -634,10 +640,6 @@ app.use(express.static(__dirname + '/../public'))
 </div>
 
 ### `13.` agora é só testar. se o seu servidor tiver fechado com o tempo, basta executar o comando `npm run dev` no terminal e executar. nosso site estará assim.:
-
-
-
-
 
 ### se tudo der certo, você é um novato foda e eu um veterano mais foda ainda. valeu aí pelo trabalho em equipe 🤝
 
