@@ -359,7 +359,6 @@ app.delete('/users/:id', async (req, res) => {
 ```
 put http://localhost:3333/users/1 HTTP/1.1
 Content-Type: application/json
-// modifica o usuário de acordo com o ID 
 {
     "name": "edite como quiser",
     "email": "editecomoquiserr@gmail.com"
@@ -374,10 +373,9 @@ Content-Type: application/json
 ```
 delete http://localhost:3333/users/1 HTTP/1.1
 Content-Type: application/json
-//deleta o usuario de acordo com o ID selecionado 
 ```
 
-### `1.5` finalmente, seu `restclient.http` deve estar assim: ✔
+### `1.5` finalmente, seu `restclient.http` deve estar assim: ✔ (exceto os comentários. só coloquei na imagem para você entender)
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="src/ignore/restclientfinal.PNG" />
