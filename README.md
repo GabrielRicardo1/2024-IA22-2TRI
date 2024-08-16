@@ -6,26 +6,26 @@
 </div>
 
 
-###### (em alguns momentos vou parecer repetitivo e falar coisas óbvias, basicamente pq esse tutorial foi feito pra qualquer tongão fazer.) `AVISO` o codespace as vezes é meio lento, então não se assuste se as coisas não funcionem imediatamente
+###### (em alguns momentos vou parecer repetitivo e falar coisas óbvias, basicamente pq esse tutorial foi feito pra qualquer tongão fazer.) `AVISO` o codespace as vezes é meio lento, então não se assuste se as coisas não funcionarem imediatamente
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
 ## `preparativos básicos`
-### nós vamos usar o `codespace` do github. espero que você saiba pelo menos criar um repositório né kkkk. enfim, crie um repositório publico e que tenha read-me. depois vamos criar o codespace.
+### nós vamos usar o `codespace` do github. espero que você saiba pelo menos criar um repositório né kkkk. enfim, crie um repositório publico e com readme. depois vamos criar o codespace.
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="src/ignore/codespace.png" />
 </div>
 
-### na hora de criar o seu codespace selecione o repositório que tu acabou de criar. não se esquece de selecionar o servidor da américa do sul, caso contrário seu codespace vai travar pra cacete.
+### para criar o seu codespace selecione o repositório que tu acabou de criar.
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="src/ignore/criandocodespace.png" />
 </div>
 
-### pronto, agora vá para o seu perfil e abra o repositório, logo em seguida selecione o botão `code` 
+### pronto, agora vá para o seu perfil e abra o repositório, logo em seguida selecione o botão `code` e logo em seguida abra sua main (ali onde eu deixei destacado na imagem)
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="src/ignore/abrindocodespacene.png" />
@@ -41,8 +41,9 @@
 #### dicas de atalhos úteis: ctrl + G = procura a linha do código 
 #### ctrl + F procura palavra  
 
+
 # `1.`iniciando o nosso projeto:
-### abra o terminal (ctrl + ' ) e execute os comandos abaixo. não se preocupe, pode executar tudo de uma vez!
+### abra o terminal (ctrl + ' ) e execute os comandos abaixo. não se preocupe, pode executar tudo de uma vez! 
 
 ```
 npm init -y
@@ -52,12 +53,15 @@ npx tsc --init
 mkdir src
 touch src/app.ts
 ```
+
+### todos os comandos vão rodar automaticamente quando você pressionar enter, menos o touch `src/app.ts` então só aperte enter de novo quando os comandos anteriores terminarem.
+
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
 # `2.`Configurando o **`tsconfig.json`** 👨‍💻
-### Mude a linha "outDir": "./" , para "outDir": "./dist", e adicione embaixo a linha  "rootDir": "./src": seu código deve ficar assim:
+### Mude a linha `"outDir": "./"` para `"outDir": "./dist"` e adicione embaixo a linha  `"rootDir": "./src":` seu código deve ficar assim:
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="src/ignore/01.webp" width="300" />
