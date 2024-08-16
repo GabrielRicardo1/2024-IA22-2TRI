@@ -135,6 +135,10 @@ app.listen(port, () => {
 ### logo ao executar o comando, aparecerá uma aba no canto inferior direito. você deve selecionar a opção `Abrir no navegador.` E se você não tiver feito nenhuma cagada verá a mensagem `Hello World`
 
 <div style="display: inline_block"><br/>
+   <img align="center" alt="C" src="src/ignore/serverrunning.png" />
+</div>
+
+<div style="display: inline_block"><br/>
    <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
@@ -435,20 +439,24 @@ Content-Type: application/json
   <title>Document</title>
   <style>
     body {
-      font-family: 'Arial', sans-serif;
-      background-color: #f4f4f4;
-      color: #333;
+      font-family: 'Courier New', monospace;
+      background-color: #0d0d0d;
+      color: #ff4d4d;
       display: flex;
       flex-direction: column;
       align-items: center;
       padding: 20px;
+      background-image: url('https://i.gifer.com/76cI.gif');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
     }
 
     form {
-      background-color: #fff;
+      background-color: rgba(0, 0, 0, 0.8);
       padding: 20px;
       border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 0 15px rgba(255, 77, 77, 0.6);
       margin-bottom: 30px;
       width: 300px;
       display: flex;
@@ -458,13 +466,15 @@ Content-Type: application/json
 
     input[type="text"], input[type="email"] {
       padding: 10px;
-      border: 1px solid #ccc;
+      border: 1px solid #ff4d4d;
       border-radius: 4px;
       font-size: 14px;
+      background-color: #1a1a1a;
+      color: #ff4d4d;
     }
 
     button[type="submit"] {
-      background-color: #5cb85c;
+      background-color: #ff4d4d;
       color: white;
       border: none;
       padding: 10px;
@@ -475,35 +485,35 @@ Content-Type: application/json
     }
 
     button[type="submit"]:hover {
-      background-color: #4cae4c;
+      background-color: #cc0000;
     }
 
     table {
       width: 100%;
       max-width: 800px;
       border-collapse: collapse;
-      background-color: #fff;
+      background-color: rgba(0, 0, 0, 0.8);
       border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 0 15px rgba(255, 77, 77, 0.6);
+      color: #ff4d4d;
     }
 
     th, td {
       padding: 12px;
       text-align: left;
-      border-bottom: 1px solid #ddd;
+      border-bottom: 1px solid #ff4d4d;
     }
 
     th {
-      background-color: #5cb85c;
-      color: white;
+      background-color: #1a1a1a;
     }
 
     tbody tr:hover {
-      background-color: #f1f1f1;
+      background-color: #262626;
     }
 
     .excluir, .editar {
-      background-color: #d9534f;
+      background-color: #ff3333;
       color: white;
       border: none;
       padding: 5px 10px;
@@ -513,15 +523,15 @@ Content-Type: application/json
     }
 
     .editar {
-      background-color: #0275d8;
+      background-color: #ff6600;
     }
 
     .excluir:hover {
-      background-color: #c9302c;
+      background-color: #b30000;
     }
 
     .editar:hover {
-      background-color: #025aa5;
+      background-color: #cc5200;
     }
   </style>
 </head>
