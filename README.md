@@ -633,10 +633,21 @@ app.use(express.static(__dirname + '/../public'))
    <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-### `13.` agora é só testar. se o seu servidor tiver fechado com o tempo, basta colar `npm run dev` e abrir o navegador. nosso site estará assim.:
+### `13.` agora é só testar. se o seu servidor tiver fechado com o tempo, basta executar o comando `npm run dev` no terminal e executar. nosso site estará assim.:
+
+
+
+
+
+### se tudo der certo, você é um novato foda e eu um veterano mais foda ainda. valeu aí pelo trabalho em equipe 🤝
+
+
+<div style="display: inline_block"><br/>
+   <img align="center" alt="C" src="https://i.gifer.com/5SM.gif" />
+</div>
 
 ## e por fim...
-#### precisamos adicionar, comitar e subir as mudanças feitas para o GitHub. copie, cole e dê enter nos scripts abaixo no terminal:
+#### só precisamos adicionar, comitar e subir as mudanças feitas para o GitHub. primeiro de tudo, abra o terminal e use `Ctrl + c` para fechar o nosso servidor web e copie, cole e dê enter nesse script abaixo no terminal. tudo de uma vez mesmo, quem se importa? vai dar certo:
 
 ```bash
 git add . ; git commit -m ... ; git push origin main
