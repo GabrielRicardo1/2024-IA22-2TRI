@@ -656,8 +656,9 @@ app.use(express.static(__dirname + '/../public'))
 
 
 <div style="display: inline_block"><br/>
-   <img align="center" alt="C" src="https://i.gifer.com/5SM.gif" />
+   <img align="center" alt="C" src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif?cid=790b7611z4dt6msoj2q23im73dssdg4za6i0yvl3q0n5go6d&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
+
 
 ## e por fim...
 #### caso não tenha criado ainda, crie a pasta `.gitignore` e adicione os seguintes arquivos:
