@@ -649,7 +649,8 @@ app.use(express.static(__dirname + '/../public'))
    <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-### `13.` agora é só testar. se o seu servidor tiver fechado com o tempo, basta executar o comando `npm run dev` no terminal e executar. nosso site estará assim.:
+### `13.` agora é só testar. se o seu servidor tiver fechado com o tempo, basta colar o comando `npm run dev` no terminal e executar. bom, não vou colocar imagens do site pronto... veja você mesmo.
+
 
 ### se tudo der certo, você é um novato foda e eu um veterano mais foda ainda. valeu aí pelo trabalho em equipe 🤝
 
@@ -659,7 +660,20 @@ app.use(express.static(__dirname + '/../public'))
 </div>
 
 ## e por fim...
-#### só precisamos adicionar, comitar e subir as mudanças feitas para o GitHub. primeiro de tudo, abra o terminal e use `Ctrl + c` para fechar o nosso servidor web e copie, cole e dê enter nesse script abaixo no terminal. tudo de uma vez mesmo, quem se importa? vai dar certo:
+#### caso não tenha criado ainda, crie a pasta `.gitignore` e adicione os seguintes arquivos:
+
+<div style="display: inline_block"><br/>
+   <img align="center" alt="C" src="/workspaces/2024-IA22-2TRI/src/ignore/gitignore.png" />
+</div>
+
+```
+node_modules/
+dist/
+database.sqlite/
+
+```
+
+#### e pronto. só precisamos adicionar, comitar e subir as mudanças feitas para o GitHub. primeiro de tudo, abra o terminal e use `Ctrl + c` para fechar o nosso servidor web e copie, cole e dê enter nesse script abaixo no terminal. tudo de uma vez mesmo, quem se importa? vai dar certo:
 
 ```bash
 git add . ; git commit -m ... ; git push origin main
