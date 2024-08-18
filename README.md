@@ -132,17 +132,33 @@ app.listen(port, () => {
 
 ### Se tudo ocorrer bem, você verá a mensagem Server running on port 3333 no terminal.
 
-### logo ao executar o comando, aparecerá uma aba no canto inferior direito. você deve selecionar a opção `Abrir no navegador.` E se você não tiver feito nenhuma cagada verá a mensagem `Hello World`
+### logo ao executar o comando, aparecerá uma aba no canto inferior direito. você deve selecionar a opção `Abrir no navegador.` E se você não tiver feito nenhuma cagada verá a mensagem `Hello World`. para evitarmos dor de cabeça, não feche a aba do navegador.
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="src/ignore/serverrunning.png" />
 </div>
 
+
+### caso tenha sido teimoso e fechou a aba, para abrir basta abrir o terminal `Ctrl + '`, ir até a aba de `portas` arrastar o cursor do mouse e apertar no botão de um globo (o ícone só aparece quando o mouse estiver em cima!). como na imagem abaixo:
+
+
+<div style="display: inline_block"><br/>
+   <img align="center" alt="C" src="src/ignore/navegadorburrao.png" />
+</div>
+
+
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
+
 # `6.`Configurando Banco de dados:
+
+
+<div style="display: inline_block"><br/>
+   <img align="center" alt="C" src="https://media.giphy.com/media/oOxSXI5D2cvc6kYSvw/giphy.gif?cid=ecf05e47azayn0068qiwawbv9c6j3ympwt8i3v3fr9a9p28z&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</div>
+
 ### Vá até a pasta `src` e crie um arquivo nomeado de `database.ts` e adicione o seguinte código no arquivo que você criou: 
 
 ```
