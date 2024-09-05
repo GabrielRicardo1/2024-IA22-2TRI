@@ -13,7 +13,7 @@
 </div>
 
 ## `preparativos básicos`
-### nós vamos usar o `codespace` do github. espero que você saiba pelo menos criar um repositório né kkkk. enfim, crie um repositório publico e com readme. depois vamos criar o codespace.
+### nós vamos usar o `codespace` do github. a essa altura do campeonato, você já deve saber criar um repositório no github, certo?. enfim, crie um repositório publico e com readme. depois vamos criar o codespace.
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="src/ignore/codespace.png" />
@@ -666,7 +666,7 @@ app.use(express.static(__dirname + '/../public'))
 ### `13.` agora é só testar. se o seu servidor tiver fechado com o tempo, basta colar o comando `npm run dev` no terminal e executar. bom, não vou colocar imagens do site pronto... veja você mesmo.
 
 
-### se tudo der certo, você é um novato foda e eu um veterano mais foda ainda. valeu aí pelo trabalho em equipe 🤝
+### valeu aí pelo trabalho em equipe 🤝
 
 
 <div style="display: inline_block"><br/>
