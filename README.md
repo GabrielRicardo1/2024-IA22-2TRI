@@ -6,7 +6,8 @@
 </div>
 
 
-###### (em alguns momentos vou parecer repetitivo e falar coisas óbvias, basicamente pq esse tutorial foi feito pra qualquer tongão fazer.) `AVISO` o codespace as vezes é meio lento, então não se assuste se as coisas não funcionarem imediatamente
+###### (Em alguns momentos, posso parecer repetitivo ou mencionar coisas que você já sabe, mas isso é porque o tutorial foi feito para ser acessível a todos, mesmo para os novatos mais leigos.) AVISO: O Codespace pode ser um pouco lento às vezes, então não se preocupe se algo não funcionar de imediato. Tenha paciência, pois geralmente melhora em alguns minutos.
+
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
