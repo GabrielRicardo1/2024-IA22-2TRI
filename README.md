@@ -697,7 +697,7 @@ database.sqlite/
 git add . ; git commit -m ... ; git push origin main
 ```
 
-#### agora sim, terminamos. obrigado e espero que tenha dado tudo certo. me segue no insta pra eu saber quem fez meu tutorial. `couto_71`
+### se veio parar aqui através do tutorial de autenticação e CRUD, isso aqui é só o começo. caso contrario, terminamos. obrigado e espero que tenha dado tudo certo. me segue no insta pra eu saber quem fez meu tutorial. `couto_71`
 
 
 <div style="display: inline_block"><br/>
