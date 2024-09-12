@@ -380,6 +380,7 @@ app.delete('/users/:id', async (req, res) => {
 
 put http://localhost:3333/users/1 HTTP/1.1
 Content-Type: application/json
+
 {
     "name": "edite como quiser",
     "email": "editecomoquiserr@gmail.com"
