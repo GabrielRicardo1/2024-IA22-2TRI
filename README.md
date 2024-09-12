@@ -669,7 +669,7 @@ app.use(express.static(__dirname + '/../public'))
    <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-### `13.` agora é só testar. se o seu servidor tiver fechado com o tempo, basta colar o comando `npm run dev` no terminal e executar. bom, não vou colocar imagens do site pronto... veja você mesmo.
+### `13.` agora é só testar. vá ao terminal como se fosse digitar algo e de o comando Ctrl + c para parar o servidor. depois, basta colar o comando `npm run dev` no terminal e executar. bom, não vou colocar imagens do site pronto... veja você mesmo.
 
 
 ### valeu aí pelo trabalho em equipe 🤝
