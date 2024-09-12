@@ -376,6 +376,8 @@ app.delete('/users/:id', async (req, res) => {
 ### `1.4` para adicionar o método `PUT` ao código, basta colar esse código logo abaixo do método `POST` no `restclient.http`
 
 ```
+####
+
 put http://localhost:3333/users/1 HTTP/1.1
 Content-Type: application/json
 {
