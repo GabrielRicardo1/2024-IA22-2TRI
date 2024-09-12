@@ -260,7 +260,7 @@ Content-Type: application/json
    <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-# `9.`listando o usuário:
+# `9.`listando o usuário: ❗⚠️ATENÇÃO⚠️❗ se você veio do tutorial de CRUD, ignore esse tópico e vá para o 10,
 ### vá até a pasta `src` no arquivo `app.ts` e insira a rota `/users` ao servidor. deve ficar igual a imagem abaixo:
 
 <div style="display: inline_block"><br/>
