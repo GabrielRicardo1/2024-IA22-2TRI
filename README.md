@@ -42,7 +42,7 @@
 #### dicas de atalhos úteis: ctrl + G = procura a linha do código 
 #### ctrl + F procura palavra  
 
-#ATENÇÃO
+# 💀⚠️❗ATENÇÃO❗⚠️💀
 ## se você veio parar aqui através do tutorial de autenticação com CRUD, não use esses comandos no terminal. apenas ignore e vá para o tópico `2.`
 
 # `1.`iniciando o nosso projeto:
