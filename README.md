@@ -447,7 +447,7 @@ Content-Type: application/json
    <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-### `11` agora vamos fazer a parte visual do nosso site! para isso, crie uma pasta chamada `public` (deve ser uma pasta isolada, não vai estar dentro de outra.) dentro dessa nova pasta, crie o arquivo `index.html` e adicione o seguinte código a ele:
+### `11` agora vamos fazer a parte visual do nosso site! ATENÇÃo, se você veio do tutorial de CRUD, a pasta e os arquivos já estão criados. se não, crie uma pasta chamada `public` (deve ser uma pasta isolada, não vai estar dentro de outra.) dentro dessa nova pasta, crie o arquivo `index.html` e adicione o seguinte código a ele:
 
 ```html
 <!DOCTYPE html>
